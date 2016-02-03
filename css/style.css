@@ -31,4 +31,9 @@ body {
   color: #FFFFFF;
 }
 
+.bttn {
+  display: inline-block;
+  margin: 10em;
+}
+
 /*# sourceMappingURL=style.css.map */

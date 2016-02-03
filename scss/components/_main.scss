@@ -19,3 +19,8 @@ body {
 .icon-gate-1 {
   @include button($white);
 }
+
+.bttn {
+  display: inline-block;
+  margin: 10em;
+}
