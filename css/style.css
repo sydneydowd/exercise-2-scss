@@ -10,4 +10,25 @@ body {
   background-repeat: no-repeat;
 }
 
+.icon-case {
+  position: absolute;
+  z-index: 1;
+  font-size: 5em;
+  color: #FFFFFF;
+}
+
+.icon-pass {
+  position: absolute;
+  z-index: 1;
+  font-size: 5em;
+  color: #FFFFFF;
+}
+
+.icon-gate-1 {
+  position: absolute;
+  z-index: 1;
+  font-size: 5em;
+  color: #FFFFFF;
+}
+
 /*# sourceMappingURL=style.css.map */

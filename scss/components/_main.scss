@@ -7,3 +7,15 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.icon-case {
+  @include button($white);
+}
+
+.icon-pass {
+  @include button($white);
+}
+
+.icon-gate-1 {
+  @include button($white);
+}

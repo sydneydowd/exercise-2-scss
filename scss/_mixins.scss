@@ -1,0 +1,6 @@
+@mixin button($bg-color){
+  position: absolute;
+  z-index: 1;
+  font-size: 5em;
+  color: $bg-color;
+}
