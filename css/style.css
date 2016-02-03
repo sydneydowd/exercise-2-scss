@@ -17,6 +17,10 @@ body {
   color: #FFFFFF;
 }
 
+.icon-case:hover, .icon-case:active .icon-case:focus {
+  color: #d32e36;
+}
+
 .icon-pass {
   position: absolute;
   z-index: 1;
@@ -24,11 +28,19 @@ body {
   color: #FFFFFF;
 }
 
+.icon-pass:hover, .icon-pass:active .icon-pass:focus {
+  color: #d32e36;
+}
+
 .icon-gate-1 {
   position: absolute;
   z-index: 1;
   font-size: 5em;
   color: #FFFFFF;
+}
+
+.icon-gate-1:hover, .icon-gate-1:active .icon-gate-1:focus {
+  color: #d32e36;
 }
 
 .bttn {

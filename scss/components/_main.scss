@@ -10,14 +10,23 @@ body {
 
 .icon-case {
   @include button($white);
+    &:hover, &:active &:focus {
+      color: $red;
+    }
 }
 
 .icon-pass {
   @include button($white);
+  &:hover, &:active &:focus {
+      color: $red;
+    }
 }
 
 .icon-gate-1 {
   @include button($white);
+  &:hover, &:active &:focus {
+      color: $red;
+    }
 }
 
 .bttn {
