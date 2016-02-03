@@ -4,4 +4,10 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
+body {
+  background-image: url("../images/flying.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 /*# sourceMappingURL=style.css.map */
